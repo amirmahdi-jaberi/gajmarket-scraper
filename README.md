@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. After execution, the output file `gajmarket_books_with_prices.csv` will be created in the same folder.
+2. After execution, the output file `Sample-data-extracted.csv` will be created in the same folder.
 
 ## Settings
 - The number of pages to scrape can be changed via the `start_page` and `end_page` variables at the top of the code.
