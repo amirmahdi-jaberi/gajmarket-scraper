@@ -15,7 +15,7 @@ options.add_argument("--disable-gpu")
 
 driver = None
 book_data = []  # List to store (title, price) tuples
-output_filename = "gajmarket_books_with_prices.csv"
+output_filename = "Sample-data-extracted.csv"
 
 # Each page contains information for 32 books.
 start_page = 1
